@@ -4,9 +4,12 @@
 
 This project is aimed to help Vandes Group's Sales department who wants to use its sales data to build out a commission structure that rewards the various tiers in its Sales hierarchy and also to guide top management to make more informed decisions on the productivity of the Sales team as well as the profitable regions to focus on and also to build a Sales Commission Structure which will serve as a template for rewarding the sales done in future months at Vandes Groups.
 
+
 ![Commission Overview Table](https://github.com/user-attachments/assets/15630b93-8236-497a-bacb-c12772865711)
 
+
 ![Commmision Breakdown](https://github.com/user-attachments/assets/b19c01b4-a2a9-4df0-96ce-4f2cdaf22307)
+
 
 
 ### Data Sources
