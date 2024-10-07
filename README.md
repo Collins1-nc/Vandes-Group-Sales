@@ -1,6 +1,6 @@
 # Commission Sales Analysis
 
-### Porject Overview
+### Project Overview
 
 This project is aimed to help Vandes Group's Sales department who wants to use its sales data to build out a commission structure that rewards the various tiers in its Sales hierarchy and also to guide top management to make more informed decisions on the productivity of the Sales team as well as the profitable regions to focus on and also to build a Sales Commission Structure which will serve as a template for rewarding the sales done in future months at Vandes Groups.
 
